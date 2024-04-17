@@ -30,6 +30,7 @@ To get started with this project, follow these steps:
 # Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
     1. Fork the repository.
     2. Create your feature branch (```git checkout -b feature/YourFeature```).
     3. Commit your changes (```git commit -am 'Add some feature'```).
